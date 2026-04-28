@@ -1,12 +1,7 @@
 ---
-published: true
-layout: post
 title: Synergy Cube Enemy colors
-author: mikey
-date: 2024-01-25 20:00:00 -0800
-comments: true
-excerpt_separator: <!--more-->
-categories: mtg cube primer
+description: Synergy Cube Enemy colors
+pubDate: 2024-01-25
 ---
 
 Last time we went over a sample of the allied color decks. This time, will be a showcase of the enemy colors!

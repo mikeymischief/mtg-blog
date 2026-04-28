@@ -1,12 +1,7 @@
 ---
-published: true
-layout: post
 title: Commander in December
-author: mikey
-date: 2022-12-04 20:00:00 -0800
-comments: true
-excerpt_separator: <!--more-->
-categories: mtg commander
+description: Commander in December
+pubDate: 2022-12-04
 ---
 
 <style>

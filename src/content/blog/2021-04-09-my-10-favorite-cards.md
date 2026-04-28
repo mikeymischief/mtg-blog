@@ -1,12 +1,7 @@
 ---
-published: true
-layout: post
 title: My 10 Favorite Cards in Magic
-author: mikey
-date: 2021-04-09 20:00:00 -0800
-comments: true
-excerpt_separator: <!--more-->
-categories: mtg cube favorite
+description: My 10 Favorite Cards in Magic
+pubDate: 2021-04-09
 ---
 I've been playing Magic: The Gathering for a long time (since 1993-1994). This means I've seen my fair share of cards and strategies since then. Just as a fun experiment, I want to share my top 10 favorite cards! These will not strictly be from my cube; they could be a particular card within a format, because I like the art, or just because of the nostalgia.
 

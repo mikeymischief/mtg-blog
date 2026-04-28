@@ -1,12 +1,7 @@
 ---
-published: true
-layout: post
 title: Synergy Cube Update
-author: mikey
-date: 2023-08-23 20:00:00 -0800
-comments: true
-excerpt_separator: <!--more-->
-categories: mtg cube primer
+description: Synergy Cube Update
+pubDate: 2023-08-23
 ---
 
 It's been over 3 years since I've spoken about my high-powered synergy cube.

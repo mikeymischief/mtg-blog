@@ -1,12 +1,7 @@
 ---
-published: true
-layout: post
 title: Synergy Cube Primer
-author: mikey
-date: 2020-06-11 20:00:00 -0800
-comments: true
-excerpt_separator: <!--more-->
-categories: mtg cube primer
+description: Synergy Cube Primer
+pubDate: 2020-06-11
 ---
 
 Welcome to the Synergy Cube!
